@@ -1,0 +1,9 @@
+#grid {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.grid-item {
+    border: 1px solid red;
+    text-align: center;
+}
